@@ -1,0 +1,10 @@
+﻿  Admin.cpp
+  Application.cpp
+D:\.automation\C语言\C++\C++课程设计\WeatherMangement\WeatherMangement\Application.cpp(141,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  City.cpp
+D:\.automation\C语言\C++\C++课程设计\WeatherMangement\WeatherMangement\City.cpp(202,22): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.cpp
+  User.cpp
+  Weather.cpp
+  正在生成代码...
+  WeatherMangement.vcxproj -> D:\.automation\C语言\C++\C++课程设计\WeatherMangement\WeatherMangement\Debug\WeatherMangement.exe
