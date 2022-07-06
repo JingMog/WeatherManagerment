@@ -5,13 +5,13 @@ bin-release/
 [Bb]in/
 
 # ignore vs studio files
-/WeatherManagement/.vs
-/WeatherManagement/Debug
-/WeatherManagement/Release
-/WeatherManagement/*.sln
-/WeatherManagement/*.vcxproj
-/WeatherManagement/*.vcxproj.user
-/WeatherManagement/*.vcxproj.filters
+WeatherManagement/.vs
+WeatherManagement/Debug
+WeatherManagement/Release
+*.sln
+*.vcxproj
+*.user
+*.filters
 
 
 # Other files and folders
