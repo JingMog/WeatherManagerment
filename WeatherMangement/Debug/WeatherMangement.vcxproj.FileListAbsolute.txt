@@ -1,3 +1,0 @@
-D:\C语言\C++课程设计\WeatherMangement\WeatherMangement\Debug\WeatherMangement.exe
-D:\C语言\C++\C++课程设计\WeatherMangement\WeatherMangement\Debug\WeatherMangement.exe
-D:\.automation\C语言\C++\C++课程设计\WeatherMangement\WeatherMangement\Debug\WeatherMangement.exe
