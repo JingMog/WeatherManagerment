@@ -31,20 +31,20 @@
 
 ##### 登录界面
 
-![avatar](READMEpic/welcome.png)
+![avatar](welcome.png)
 
-软件介绍
+##### 软件介绍
 
-![avatar](READMEpic/intrd.png)
+![avatar](intrd.png)
 
-用户菜单
+##### 用户菜单
 
-![avatar](READMEpic/Menu_user.png)
+![avatar](Menu_user.png)
 
-管理员菜单
+##### 管理员菜单
 
-![avatar](READMEpic/Menu_user.png)
+![avatar](Menu_user.png)
 
-信息展示
+##### 信息展示
 
-![avatar](READMEpic/show_city.png)
+![avatar](show_city.png)
