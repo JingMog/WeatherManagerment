@@ -1,37 +1,50 @@
 # WeatherManagerment-master
 
 #### 介绍
-C++课程设计，天气管理系统，使用EasyX可视化工具构建可视化界面。
-
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+大一下C++课程设计，天气管理系统，使用EasyX可视化工具构建可视化界面。
 
 #### 使用说明
+本程序使用EasyX构建，需要提前安装好EasyX，官网：https://easyx.cn/
+注意EasyX支持VisualC++和Visual Studio。推荐使用Visual Studio 2019。
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### 基本要求
 
-#### 参与贡献
+- 编写一个天气管理与预测系统，实现对城市天气的管理，并根据前若干天的平均气 温，预测当天的平均气温。系统须支持多用户登录，记录每个用户的姓名、手机号， 以及该用户所选择的城市信息。
+- 城市天气信息包括：城市名称、电话区号、一段时间的天气（包括每天的最低气温、 平均气温、最高气温、降雨量等）以及平均气温的预测结果，气温预测模型的辨识 以及气温的预测通过成员函数实现。
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+#### 基本功能
 
+- 用户添加：增加一个用户到系统中。
+- 用户登录：输入用户名和密码登录系统。
+- 用户修改：修改用户信息。
+- 用户删除：从系统中删除一个用户的所有信息。
+- 城市添加：为用户增加一个城市，并输入（或从文件中读入）这个城市的历史天气。
+- 城市修改：为用户修改已经选择的城市。
+- 城市删除：为用户删除已经选择的城市。
+- 气温预测：为用户预测已选城市的平均气温。
+- 打印功能：以表格形式打印用户全部城市信息。
+- 信息保存：将每个用户的信息（包括用户个人的信息、所选城市的信息）保存到不
+  同的文件中（数据库文件或普通文本文件）。
+- 用户查看：使用管理员身份登录系统，可以查看所有用户的所有信息。
 
-#### 特技
+#### 界面展示
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+##### 登录界面
+
+![avatar](READMEpic/welcome.png)
+
+软件介绍
+
+![avatar](READMEpic/intrd.png)
+
+用户菜单
+
+![avatar](READMEpic/Menu_user.png)
+
+管理员菜单
+
+![avatar](READMEpic/Menu_user.png)
+
+信息展示
+
+![avatar](READMEpic/show_city.png)
